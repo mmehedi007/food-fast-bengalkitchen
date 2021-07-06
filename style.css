@@ -49,10 +49,11 @@ p{
     text-align: center ;
 }
 .last-bottom{
-    background-color: gray;
+    background-color:black;
     margin: 10%;
     padding-top:2% ;
     padding-bottom: 2%;
+    font-size: xx-large;
 }
 .flexible-container{
     display: flex;
@@ -70,6 +71,6 @@ p{
 width: 100%;
 }
 .social-acti{
-    box-shadow:10px 10px 10px gray;
+    box-shadow:10px 10px 10px:gray;
     
 }
