@@ -9,6 +9,11 @@ h1{
     font: size 500px; 
     font-weight: 700;
 }
+h5{
+    text-align: center;
+    color: white;
+    font-weight: 100;
+}
 p{
     text-align:left;
     font-size: large;
@@ -40,7 +45,31 @@ p{
     background-repeat: no-repeat;
     text-align: center;
 }
+.half-bottom{
+    text-align: center ;
+}
+.last-bottom{
+    background-color: gray;
+    margin: 10%;
+    padding-top:2% ;
+    padding-bottom: 2%;
+}
 .flexible-container{
     display: flex;
     margin-bottom: 100px;
+}
+.recipe-item{
+    box-shadow:10px 10px 10px gray;
+    border-radius: 10px;
+    width: 30%;
+    margin-left: 3%;
+    margin-right: 3%;
+    padding-left: 10px;
+}
+.recipe-item img{
+width: 100%;
+}
+.social-acti{
+    box-shadow:10px 10px 10px gray;
+    
 }
